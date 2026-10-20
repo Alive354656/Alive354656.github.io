@@ -21,7 +21,7 @@ My research focuses on embodied AI.
 
 Undergraduate Student in Computer Science, 2022-2026
 
-**Another University**
+**Fudan University**
 
 Master Student in Artificial Intelligence, 2026-present
 
